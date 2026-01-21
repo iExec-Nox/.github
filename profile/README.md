@@ -1,7 +1,7 @@
 # Nox - Confidential Protocol
 
 [![DOCS](https://img.shields.io/badge/DOCS-03BE09)](#)
-[![DISCORD](https://img.shields.io/badge/DISCORD-purple)](https://discord.gg/66px3TjtGT)
+[![DISCORD](https://img.shields.io/badge/DISCORD-purple)](https://discord.gg/5TewNUnJHN)
 [![X](https://img.shields.io/badge/X-000000)](https://x.com/iEx_ec)
 
 > **Nox** is a **multichain confidential execution protocol for DeFi**.
@@ -73,6 +73,6 @@ With this quick start, you will:
 
 - Start with the **Confidential Token Quick Start** to experience Nox in action
 - Dive deeper into **protocol concepts** once familiar
-- Join the **Nox chan** in iExec Discord for support and updates
+- Join the [**Nox chan**](https://discord.gg/66px3TjtGT) in iExec Discord for support and updates
 
 > **Nox is the foundation. Products are just the beginning.**
