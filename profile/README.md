@@ -1,12 +1,12 @@
 # Nox - Confidential Protocol
 
 [![DOCS](https://img.shields.io/badge/DOCS-03BE09)](#)
-[![DISCORD](https://img.shields.io/badge/DISCORD-purple)](https://discord.gg/5TewNUnJHN)
+[![DISCORD](https://img.shields.io/badge/DISCORD-purple)](https://discord.gg/66px3TjtGT)
 [![X](https://img.shields.io/badge/X-000000)](https://x.com/iEx_ec)
 
 > **Nox** is a **multichain confidential execution protocol for DeFi**.
 
->Nox Protocol builds the first truly on-chain composable privacy layer for DeFi, multichain, multi-privacy. Gas-efficient confidential computation at blockchain speed: like HTTPS made secure connections invisible, Nox makes privacy the default. 
+Nox Protocol builds the first truly on-chain composable privacy layer for DeFi, multichain, multi-privacy. Gas-efficient confidential computation at blockchain speed: like HTTPS made secure connections invisible, Nox makes privacy the default. 
 Seamless for users, effortless for builders who can develop and monetize their own confidential functions, auditable for regulators.
 
 ## 🔐 How Nox Works
