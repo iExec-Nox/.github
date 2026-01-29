@@ -59,14 +59,3 @@ With the Confidential Token, you can:
 | Link | Description                              |
 | ---- | ---------------------------------------- |
 | Docs | Protocol concepts, guides, SDK reference |
-
-## | Roadmap
----
-
-### Get Started
-
-- Start with the **Confidential Token Quick Start** to experience Nox in action
-- Dive deeper into **protocol concepts** once familiar
-- Join the [**Nox chan**](https://discord.gg/66px3TjtGT) in iExec Discord for support and updates
-
-> **Nox is the foundation. Products are just the beginning.**
